@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.tabSize": 4,
+    "editor.useTabStops": false,
+    "markdownlint.config": {
+      "MD025": false,
+      "MD041": false,
+    },
+  }
+}
