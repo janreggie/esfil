@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/esfil/sw.js",{scope:"/esfil/"})
