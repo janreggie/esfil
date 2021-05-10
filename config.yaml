@@ -34,9 +34,9 @@ languages:
 
 # Taxonomías para organisar contenido
 taxonomies:
-  categoria: categoria # poema, novela, y similar
+  categoria: categoria # poema, novela, etc.
   tag: tags
-  escritor: escritor
+  escritor: escritores
 
 menu:
   after:
