@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-**Describa el bug**
-
 AÑADA UNA DESCRIPCIÓN BREVE AQUÍ.
 
 - ¿En qué página se encuentra este bug? AÑADA UN VÍNCULO AQUÍ.
