@@ -1,0 +1,5 @@
+---
+title: "Romero"
+escritores:
+  - desconocido
+---
