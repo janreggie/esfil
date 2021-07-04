@@ -135,6 +135,6 @@ Yo, con una piel de naranjita,
 Pero si Green se empeña en que la tromba  
 Explote bajo el sol,  
 A ver si larga la primera bomba  
-¡Al Citijel, es decir, al Citijoll
+¡Al Citijel, es decir, al Citijol!
 {{< /poem/stanza >}}
 {{< /poem >}}

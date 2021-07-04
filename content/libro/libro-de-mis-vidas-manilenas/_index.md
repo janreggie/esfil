@@ -39,6 +39,6 @@ Porque he escuchado todos los murmullos, pondo a ellos con todas las palabras.
 
 Divino Jesús:
 
-No solo eres el primer poela filipino. Eres poeta de Filipinas.
+  No solo eres el primer poeta filipino. Eres poeta de Filipinas.
 
 --- TEODORO M. KALAW
