@@ -1,16 +1,12 @@
 .poem {
-    display: grid;
-    grid-template-columns: 3fr auto;
-    row-gap: 1em;
 }
 
 .poem .stanza {
-    grid-column: 1 / span 2;
 }
 
 .poem .headnote {
-    grid-column: 2;
     text-align: justify;
+    margin: auto 0px auto auto;
     font-size: smaller;
     max-width: 40em;
     overflow: hidden;
