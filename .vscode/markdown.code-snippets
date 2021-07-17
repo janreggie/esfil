@@ -1,0 +1,11 @@
+{
+  "Poem with headnote": {
+    "prefix": "poem",
+    "body": [
+      "{{< poem >}}",
+      "{{< poem/headnote >}}",
+      "{{< /poem/headnote >}}",
+      "{{< /poem >}}",
+    ]
+  }
+}
