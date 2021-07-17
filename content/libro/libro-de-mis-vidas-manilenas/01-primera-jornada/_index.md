@@ -244,3 +244,146 @@ Perdida su elegancia, su fama y su virtud?
 ¡Que únicamente sirva para fumarse en cuaco!  
 ¡Y que lo fume Wood!
 {{< /poem >}}
+
+## En Todas Partes, Habas
+
+{{< poem >}}
+{{< poem/headnote >}}
+El General Primo de Rivera,
+hablando ante la Unión Patriótica,
+dijo que el Directorio, que por espacio
+de 15 meses ha venido funcionando,
+necesita seguir otros 15 más
+para acabar de arreglar el país.
+{{< /poem/headnote >}}
+
+Como la araña en todos los techos es araña,  
+Y las pamplinas son nada más que pamplinas,  
+Aqueste Excelentísimo Primo que tiene España,  
+Es igual a los Tíos que tiene Filipinas.
+
+Primos y Tíos surgen de la misma redoma  
+Y son el mismo galgo que por detrás nos muerde;  
+---¿Cuando dimite usted? ¡Van treinta años de broma!  
+---¡Necesito más tiempo! ¡Sin mí, el país, se pierde!
+
+Ahí está Don Agoncillo, clamando en su inocencia  
+Y en pleno mes de Enero, más fresco que un sorbete,  
+Que se hundirá en el fondo del mar la independencia  
+El día en que él se meta de nuevo en su bufete.
+
+Ahí están, con más ventíscas que todos los Eolos  
+En la Baja y en la Alta, los burla-cobradores.  
+¿Que sería de Sergio y de ios dos Manolos,  
+Cuando dejaran ellos de ser legisladores?
+
+Y ahí está el tal Garduño actuando cada homérica  
+Cuestión más problemática que un lance de ajedrez.  
+¿Qué sería de Wood y de la pobre América  
+El día en que Garduño dejara de ser juez?
+
+Hay señores que vienen a ser en sus países,  
+Lo que son las narices al Alcalde Romualdez;  
+¡Quítele usté a Romualdez de un golpe las narices,  
+Y se desploma el mundo con todos sus Alcaldes!
+{{< /poem >}}
+
+## Los Mejores Datos
+
+{{< poem >}}
+{{< poem/headnote >}}
+La Comisión de pedagogos pronta
+a iniciar su labor. Hará un estudio
+analítico del sistema educacional
+para presentar su informe a la
+Legislatura.
+{{< /poem/headnote >}}
+
+Para que no confundan las Guaguas con los gogos,  
+Ni suspiren por dogos en cuanto vean togas,  
+Ahí van algunos datos para los pedagogos,  
+Y hasta las pedagogas.
+
+En cuanto vean una madriguera de grillos  
+Con una camisola azul o colorada,  
+Llena de polvos grises y lazos amarillos,  
+¡Una chica educada!
+
+Y en cuanto vean una especie de Caifás,  
+Con gafas, con zapatos de tacón engomado,  
+Y una chaqueta llena de pliegues por detrás,  
+I Un joven educado!
+
+Es todo. Una vez vista aquesta climatérica  
+Visión de educación y de belleza y arte,  
+Pueden volverse a América,  
+¡Y darle a Mister Culich memorias de mi parte!
+{{< /poem >}}
+
+## Música Prohibita
+
+{{< poem >}}
+{{< poem/headnote >}}
+Porque no le daban las cosas que
+pedía, el Gobernador General disolvió
+la Junta de Emergencia. Uno
+de los motivos, fué el que Malacañang
+no consiguió dinero para comprar
+placas de fonógrafo.
+{{< /poem/headnote >}}
+
+Ha hecho bien Mr. Wood en dejarnos difunta  
+A la Junta. La Junta cometía un abuso.  
+¿Qué derecho asistía a la dichosa Junta  
+De quitarle a Leonardo las placas de Caruso?
+
+Comprendo que se mate por unas peteneras.  
+Comprendo que un **foxtrot** nuestro bolsillo estruje.  
+Sabido es que la música amansa hasta a las fieras,  
+¡Y Mr. Wood, sin música, no nos rije, nos ruje!  
+
+De ser yo la Emergencia en vez de ser un haba,  
+Le doy ¡no solo placas, le doy hasta Victrolas;  
+Y si aún esto era poco y el viejo reclamaba,  
+¡Un par de Montinolas dentro de dos pianolas!
+
+Cuesta poco el dejar que se nos ponga arísco,  
+Y hasta que se nos ponga como la mantequilla.  
+¿Se quiere algún ejemplo?... Sumulong, que es su disco  
+Querido. ¡En ambos lados, Barbero de Sevilla!
+{{< /poem >}}
+
+## Caraballesca
+
+{{< poem >}}
+{{< poem/headnote >}}
+Seis carabaos desaparecidos en la
+Pampanga.
+--- LA VANGUARDIA.
+{{< /poem/headnote >}}
+
+Si contamos algunos en el Ayuntamiento,  
+En nuestro par de Cámaras, y en otras oficinas,  
+Los carabaos perdidos pueden llegar a ciento,  
+Aunque esto a la Pampanga le parezcan pamplinas.
+
+No hay por qué alzar al cielo gritos desesperados,  
+Ni ante pérdida tal convertirse en un lila;  
+El dueño de los seis carabaos extraviados,  
+Puede estar segurísimo de que están en Manila.
+
+Pero si alguien lo duda, que venga a ver y oler  
+La área caraballesca sonora y estupenda.  
+Para más pormenores, el Sr. Escaler,  
+Que es del Conservatorio de Música berrenda.
+
+Y eso que sean solo seis carabaos sin mallas  
+Los perdidos, lo dudo. ¡Hay más arremetidas!  
+¡Y es que también tenemos bastantes caraballas  
+Que no se habrán perdido, porque ya están perdidas!
+
+Carabaos de Pampanga, Iloilo, Zambales,  
+Cavite, Bulacán y demás letanías,  
+Desde que desaparecen de sus propios corrales,  
+Ya no son carabaos!---¿Pues, qué son?---¡Señorías!
+{{< /poem >}}
