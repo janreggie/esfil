@@ -1,1 +1,5 @@
-<section class='headnote {{with .Get "class"}}{{.}}{{end}}' {{with .Get "id"}}id='{{.}}'{{end}}>{{ .Inner | markdownify }}</section>
+<section
+  class='headnote{{with .Get "class"}} {{.}}{{end}}'
+  {{with .Get "id"}} id='{{.}}'{{end}}>
+    <p>{{ .Inner | markdownify }}</p>
+</section>
