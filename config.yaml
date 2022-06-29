@@ -32,11 +32,11 @@ languages:
     languageName: Tagalog
     weight: 3
 
-# Taxonomías para organisar contenido
+# Taxonomías para organizar contenido
 taxonomies:
-  categoria: categoria # poema, novela, etc.
+  categoria: categoría # poema, novela, etc.
   tag: tags
-  escritor: escritores
+  # escritor: escritores
 
 menu:
   after:
