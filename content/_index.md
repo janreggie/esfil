@@ -9,7 +9,7 @@ Espero que disfrute su visita.
 
 - Benigno del Río
 - Edmundo Farolán Romero
-- Jesús Balmori
+- [Jesús Balmori]({{< relref "escritor/jesus-balmori" >}})
 - Epifanio de los Santos
 - Claro Mayo Recto
 - Pacifico Victoriano
