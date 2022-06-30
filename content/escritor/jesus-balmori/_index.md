@@ -55,11 +55,11 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 - "Los ojos que a ti vuelven", en *Cultura Filipina*, abril, 1913, año III, núm. 7, p. 182.
 - "Dolorosa", en *Cultura Filipina*, abril, 1913, año III, núm. 7, pp. 412-413.
 - "India Virgen Lacrimosa", en *Día filipino*, diciembre, 1914, año II, núm. 2, p. 87.
-- "A Salvador Rueda", en *Excelsior*, 30 de octubre, 1915, núm. 343 , p . 13.
+- "A Salvador Rueda", en *Excelsior*, 30 de octubre, 1915, núm. 343 , p. 13.
 - "Filipinos y Argentinos", en *Revista Filipina*, junio, 1916, vol. I, núm. 6, p. 25.
 - "A Cervantes", en *Excelsior*, 10 de junio, 1916, núm. 365, pp. 13-14.
 - "Tríptico: I. Aldonza Lorenzo; II. Dorotea; Teresa Panza", en *Excelsior*, 10 de junio, 1916, núm. 365, p.14.
-- "Los Héroes pasan...", en *Revista Filipina*, septiembre, 1916, vol. 1, núm. 9, pp. 16-17.
+- "Los Héroes pasan...", en *Revista Filipina*, septiembre, 1916, vol. I, núm. 9, pp. 16-17.
 - "Bajo tu manto divino y azul", en *Excelsior*, 30 de diciembre, 1916, núm. 385, p. 15.
 - "Post Scriptum", en Tirso de Irureta Goyena, *Rosas de Amor*, Manila, La Vanguardia, 1917, p. 109.
 - "Domus Aurea", en *Revista Filipina*, febrero, 1917, vol. II, núm. 2, pp. 15-16.
@@ -164,7 +164,7 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 
 #### Novela
 
-- "La Redención del Bandido. Novela Filipina", en *Revista Filipina", septiembre, 1916, vol. I, núm. 7, pp. 33-41.
+- "La Redención del Bandido. Novela Filipina", en *Revista Filipina*, septiembre, 1916, vol. I, núm. 7, pp. 33-41.
 
 #### Teatro
 
@@ -186,7 +186,7 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 - "México Bucólico", en *Excelsior*, 30 de noviembre, 1933, núm. 983, p. 31.
 - "México Trágico", en *Excelsior*, 31 de diciembre, 1933, núm. 985, p. 2 1 .
 - "México Aristócrata", en *Excelsior*, 1 de enero, 1934, núm. 986, p. 34.
-- "Acapulco", en *Excelsior*, 31 de Enero, 1934, núm. 987, p. 15.
+- "Acapulco", en *Excelsior*, 31 de enero, 1934, núm. 987, p. 15.
 - "Artes y Letras", en *Excelsior*, 15 de febrero, 1934, núm. 988, p. 15.
 
 #### Nuestras entrevistas
@@ -240,7 +240,7 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 - "Farmacopitis", en *Aray*, 27 de diciembre, 1923, año I, núm. 9, p. 11.
 - "Quejas del vecindario", en *Aray*, 27 de diciembre, 1923, año I, núm. 9, p. 11.
 - "¿Sí o No?", en *Aray*, 17 de enero, 1924, año I, núm. 12, p. 11.
-- "De Rehidrofobia", en *Aray*, 17 de enero , 1924, año I, núm. 12, p. 11.
+- "De Rehidrofobia", en *Aray*, 17 de enero, 1924, año I, núm. 12, p. 11.
 
 #### Comedias
 
@@ -292,7 +292,7 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 - "Primaveral", en *Voz de Manila*, miércoles 15 de mayo, 1946, vol. III, núm. 86, p. 4.
 - "Pérdidas y Ganancias", en *Voz de Manila*, viernes 17 de mayo, 1946, vol. III, núm. 88, p. 4.
 - "Más vale tarde que nunca", en *Voz de Manila*, sábado 18 de mayo, 1946, vol. III, núm. 89, p. 4.
-- "Ya era hora, Fugoso", en *Voz de Manila*, domingo 19 de Mayo, 1946, vol. III, núm. 90, p. 4.
+- "Ya era hora, Fugoso", en *Voz de Manila*, domingo 19 de mayo, 1946, vol. III, núm. 90, p. 4.
 - "Vuelta a las Andadas", en *Voz de Manila*, martes 21 de mayo, 1946, vol. III, núm. 91, p. 4.
 - "A la Manera de Shakespeare", en *Voz de Manila*, miércoles 22 de mayo, 1946, vol. III, núm. 92, p. 4.
 - "Japonerías", en *Voz de Manila*, jueves 23 de mayo, 1946, vol. III, núm. 93, p. 4.
@@ -315,7 +315,7 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 - "El Palacio Benditado", en *Voz de Manila*, miércoles 19 de junio, 1946, vol. III, núm. 115, p. 6.
 - "Sobre eso del francés y del español", en *Voz de Manila*, jueves 20 de junio, 1946, vol. III, núm. 116, p. 4.
 - "En eso les damos quince y raya", en *Voz de Manila*, viernes 21 de junio, 1946, vol. III, núm. 117, p. 4.
-- "Cosas de América", en en *Voz de Manila*, sábado 22 de junio, 1946, vol. III, núm. 118, p. 4.
+- "Cosas de América", en *Voz de Manila*, sábado 22 de junio, 1946, vol. III, núm. 118, p. 4.
 - "Ya me he comprado muebles de «Ratán»", en *Voz de Manila*, domingo 23 de junio, 1946, vol. III, núm. 119, p. 8.
 - "Hambre en puertas", en *Voz de Manila*, martes 25 de junio, 1946, vol. III, núm. 120, p. 4.
 - "Epístola Inmoral. Al Alcalde Fugoso", en *Voz de Manila*, miércoles 26 de junio, 1946, vol. III, núm. 121, p. 4.
@@ -326,7 +326,7 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 - "Refranero Hispano-Filipino", en *Voz de Manila*, jueves 4 de julio, 1946, vol. III, núm. 126, p. 20.
 - "Cómo celebramos el gran día", en *Voz de Manila*, domingo 7 de julio, 1946, vol. III, núm. 128, p. 8.
 - "Al Coronel Ángel Tuazon", en *Voz de Manila*, jueves 11 de julio, 1946, vol. III, núm. 131, p. 4.
-- "Sota de «Bastus» en puertas", en *Voz de Manila*, viernes 12 de Julio, 1946, vol. III, núm. 132, p. 4.
+- "Sota de «Bastus» en puertas", en *Voz de Manila*, viernes 12 de julio, 1946, vol. III, núm. 132, p. 4.
 - "...Y armas al hombro", en *Voz de Manila*, sábado 13 de julio, 1946, vol. III, núm. 133, p. 4.
 - "Y va de cuento", en *Voz de Manila*, domingo 14 de julio, 1946, vol. III, núm. 134, p. 4.
 - "Al Hon. Secretario del Interior", en *Voz de Manila*, martes 16 de julio, 1946, vol. III, núm. 135, p. 4.
