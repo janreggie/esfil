@@ -25,12 +25,6 @@ languages:
   es:
     languageName: Español
     weight: 1
-  en:
-    languageName: English
-    weight: 2
-  tgl:
-    languageName: Tagalog
-    weight: 3
 
 # Taxonomías para organizar contenido
 taxonomies:

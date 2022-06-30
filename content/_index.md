@@ -22,7 +22,7 @@ Espero que disfrute su visita.
 
 ## Sobre mí
 
-Hola. Soy [`janreggie`](https://github.com/janreggie/).
+Hola. Soy [janreggie](https://github.com/janreggie/).
 
-He creado este sitio web para la gente pueda conocer la liteatura hispanofilipina más.
-Si quieren contribuir, vean [el repositorio en GitHub](https://github.com/janreggie/esfil).
+He creado este sitio web para que la gente conozca la literatura hispanofilipina más.
+Si quieres contribuir, véase [el repositorio en GitHub](https://github.com/janreggie/esfil).
