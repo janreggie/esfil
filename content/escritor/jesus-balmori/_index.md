@@ -30,7 +30,7 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 - *Filipinizad a los Filipinos*, 1940 [inédita].
 - *Flor del Carmelo: poema dramático en cuatro jornadas, verso y prosa*, 1940 [inédita].
 
-### Obra dispersa parcial como Jesús Balmori
+### Obra dispersa parcial como «Jesús Balmori»
 
 #### Poesía
 
@@ -107,14 +107,14 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 - "Oh Salutatis hostiae", en *Excelsior*, enero, 1937, núm. 1044, p. 10.
 - "Presentando al poeta Conrado Blanco", en *Excelsior*, agosto, 1937, núm. 1051, pp. 13-14.
 - "Gloria", en *Excelsior*, enero, 1938, núm. 1054.
-- "Amor y yo Somos Así…", en *Excelsior*, mayo, 1938, núm. 1058, p. 15.
+- "Amor y yo Somos Así...", en *Excelsior*, mayo, 1938, núm. 1058, p. 15.
 - "Ante el ara María del Rosario", en *Excelsior*, octubre, 1938, núm. 1063, p. 7.
 - "Golondrinas", en *Excelsior*, diciembre, 1938, núm. 1065.
 - "Poema de la nueva España", en *Excelsior*, julio, 1939, núm. 1072.
 - "Al Señor Jesucristo", en *Excelsior*, enero, 1940, núm. 1078, p. 64.
 - "Romance de amor y campo", en *Excelsior*, octubre, 1940, núm. 1087, p. 11.
 - "Como un árbol sin hojas y sin flores", en *Excelsior*, noviembre, 1940, núm. 1088, p. 64.
-- "Oblación. A la Primera Dama de Filipinas", en Voz de Manila, domingo 5 de mayo, 1946, vol. III, núm. 77, p. 1.
+- "Oblación. A la Primera Dama de Filipinas", en *Voz de Manila*, domingo 5 de mayo, 1946, vol. III, núm. 77, p. 1.
 - "Reina y Madre. A la Señora Rosario Acuña de Piazo", en *Voz de Manila*, domingo 26 de mayo, 1946, vol. III, núm. 96, p. 1.
 - "Filipinas", en *Voz de Manila*, jueves 4 de julio, 1946, vol. III, núm. 126, p. 1.
 - "A Manuel L. Quezon", en *Voz de Manila*, sábado 27 de julio, 1946, vol. III, núm. 145, p. 1.
@@ -157,7 +157,7 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 - "Un cuento japonés", en *Excelsior*, noviembre, 1935, núm. 1030, pp. 33-34.
 - "Contra la cruz", en *Excelsior*, agosto, 1938, núm. 1061, pp. 17-18.
 - "A Pepito le han comprado un globo", en *Excelsior*, enero, 1939, núm. 1066.
-- "¿¡El pasado… no vuelve!", en *Excelsior*, abril, 1939, núm. 1069.
+- "¿¡El pasado... no vuelve!", en *Excelsior*, abril, 1939, núm. 1069.
 - "Cuento de hadas (para los niños y para los hombres", en *Excelsior*, junio, 1939, núm. 1071.
 - "La suerte de la fea", en *Excelsior*, octubre, 1939, núm. 1072.
 - "Los ojos que cerró la Gloria", en *Excelsior*, diciembre, 1939, núm. 1077.
@@ -168,6 +168,211 @@ Compilada por Isaac Donoso Jiménez en *Los Pájaros de Fuego* (2010).
 
 #### Teatro
 
+- "La Princesa está triste", en *Revista Filipina*, marzo, 1919, vol. IV, núm. 3, pp. 195-199.
+- "Campanadas de Gloria", en *Aray. Revista Satírica Semanal*.
+- "Noche de Abril", en *Excelsior*, 15 de octubre, 1933, núm. 980, pp. 23-27.
 
+#### Ensayo
 
-### Obra dispersa parcial como Batikuling
+- "Por los pobres niños", en *Renacimiento Filipino*, 28 de febrero, 1911, núm. 32, pp. 21-22.
+- "Capítulo I", en *Excelsior*, 10 de junio, 1932, núm. 938, pp. 12-13.
+- "Capítulo II", en *Excelsior*, 20 de junio, 1932, núm. 939, pp. 12-13.
+- "Capítulo III", en *Excelsior*, 30 de junio, 1932, núm. 940, pp. 11-13.
+- "Capítulo IV", en *Excelsior*, 10 de julio, 1932, núm. 941, pp. 10-13.
+- "Capítulo VII", en *Excelsior*, 10 de diciembre, 1932, núm. 956, pp. 25-26.
+- "Atrio", en *Excelsior*, 30 de octubre, 1933, núm. 981, pp. 7-8.
+- "China poblana", en *Excelsior*, 30 de octubre, 1933, núm. 981, p. 8.
+- "Barbarismos Idiomáticos", en *Excelsior*, 15 de noviembre, 1933, núm. 982, p. 25.
+- "México Bucólico", en *Excelsior*, 30 de noviembre, 1933, núm. 983, p. 31.
+- "México Trágico", en *Excelsior*, 31 de diciembre, 1933, núm. 985, p. 2 1 .
+- "México Aristócrata", en *Excelsior*, 1 de enero, 1934, núm. 986, p. 34.
+- "Acapulco", en *Excelsior*, 31 de Enero, 1934, núm. 987, p. 15.
+- "Artes y Letras", en *Excelsior*, 15 de febrero, 1934, núm. 988, p. 15.
+
+#### Nuestras entrevistas
+
+- "Sra. Estela Romuáldez", en *Excelsior*, 10 de enero, 1929, núm. 815, pp. 26-27.
+- "Doña Ángela O. de Zóbel", en *Excelsior*, 10 de febrero, 1929, núm. 819, pp. 25-27.
+- "Hon. Guillermo Guevara", en *Excelsior*, 20 de febrero, 1929, núm. 820, pp. 25-27.
+- "Sra. Ángela S. de Jaranilla", en *Excelsior*, 10 de marzo, 1929, núm. 821, pp. 21-22.
+- "Don Teodoro M. Kalaw", en *Excelsior*, 20 de marzo, 1929, núm. 822, pp. 21-22.
+- "Srta. Monserrat Iglesias", en *Excelsior*, 10 de mayo, 1929, núm. 827, pp. 21-22.
+- "Comandante Alejo Valdez Pica", en *Excelsior*, 10 de junio, 1929, núm. 830, pp. 23-27.
+- "Srta. Carolina Ortix", en *Excelsior*, 10 de junio, 1929, núm. 830, pp. 23-27.
+- "Don Jorge Bocobo", en *Excelsior*, 20 de julio, 1929, núm. 834, pp. 14-16.
+- "Srta. Alice Davis", en *Excelsior*, 10 de agosto, 1929, núm. 836, pp. 22-23.
+- "Sr. Alfonso Félix", en *Excelsior*, 20 de agosto, 1929, núm. 837, pp. 24-25.
+- "Srta. Dolores Hidalgo", en *Excelsior*, 30 de agosto, 1929, núm. 838, pp. 30-32.
+- "Ernesto Vallejo", en *Excelsior*, 10 de septiembre, 1929, núm. 839, pp. 29-30.
+- "Sr. F. Theo Rogers", en *Excelsior*, 20 de septiembre, 1929, núm. 840, pp. 18-20.
+- "Hon. Sergio Osmeña", en *Excelsior*, 30 de septiembre, 1929, núm. 841, pp. 23-26.
+- "Crónica de Arte: Miguel Fleta", en *Excelsior*, 30 de septiembre, 1929, núm. 841, pp. 33-35.
+- "Don Quintín Paredes", en *Excelsior*, 10 de octubre, 1929, núm. 842, pp. 33-35.
+- "Sr. José Anglada Ochoa", en *Excelsior*, 20 de octubre, 1929, núm. 843, pp. 22-23.
+- "Nuestras entrevistas", en *Excelsior*, 10 de noviembre, 1929, núm. 845, pp. 31-35.
+- "Srta. Pacita de los Reyes", en *Excelsior*, 20 de noviembre, 1929, núm. 846, pp. 34-35.
+- "Sra. Marguerite Cromwell y Srta. Flora Blackman", en *Excelsior*, 30 de noviembre, 1929, núm. 847, pp. 21-22.
+- "Teles Cruz", en *Excelsior*, 10 de enero, 1930, núm. 851, pp. 25-26.
+- "Dr. Fernando Calderón", en *Excelsior*, 30 de enero, 1930, núm. 853, p. 18-19.
+- "Sr. Juan B. Alegre", en *Excelsior*, 10 de febrero, 1930, núm. 854, pp. 12-13.
+- "Srta. María Luisa Vecín", en *Excelsior*, 10 de marzo, 1930, núm. 857, pp. 24-25.
+- "Nos dice... Hon. Quirico Abeto", en *Excelsior*, 20 de marzo, 1933, núm. 966, pp. 10-11.
+- "Nos dice... Sr. Vicente Francisco", en *Excelsior*, 15 de mayo, 1933, núm. 970, pp. 21-23.
+- "Nos dice... Don León Ma. Guerrero", en *Excelsior*, 15 de diciembre, 1933, núm. 984, pp. 29-30.
+- "Nos dice... Cor. Paulino Santos", en *Excelsior*, 31 de diciembre, 1933, núm. 985, pp. 13-14.
+
+### Obra dispersa parcial como «Batikuling»
+
+#### Poesía
+
+- "En elogio a la nativa choza", en *Batikuling*, sábado 8 de noviembre, 1936, p. 15.
+
+#### Vida Manileña
+
+- "Diputados por Nombramiento", en *Aray*, 1 de noviembre, 1923, año I, núm. 1, p. 11.
+- "La Mancha de la Mora", en *Aray*, 1 de noviembre, 1923, año I, núm. 1, p. 11.
+- "Al Alcalde Modelo", en *Aray*, 8 de noviembre, 1923, año I, núm. 2, p. 11.
+- "Il Ferochi Romani", en *Aray*, 13 de diciembre, 1923, año I, núm. 7, p. 12.
+- "Otro Héroe", en *Aray*, 13 de diciembre, 1923, año I, núm. 7, p. 12.
+- "Las niñas de postal", en *Aray*, 13 de diciembre, 1923, año I, núm. 7, p. 12.
+- "De re indecencia", en *Aray*, 27 de diciembre, 1923, año I, núm. 9, p. 11.
+- "Consolando al triste", en *Aray*, 27 de diciembre, 1923, año I, núm. 9, p. 11.
+- "Farmacopitis", en *Aray*, 27 de diciembre, 1923, año I, núm. 9, p. 11.
+- "Quejas del vecindario", en *Aray*, 27 de diciembre, 1923, año I, núm. 9, p. 11.
+- "¿Sí o No?", en *Aray*, 17 de enero, 1924, año I, núm. 12, p. 11.
+- "De Rehidrofobia", en *Aray*, 17 de enero , 1924, año I, núm. 12, p. 11.
+
+#### Comedias
+
+- "Las de Poto Sulut. Vida Manileña en Tres Actos, original de Batikuling. Estrenada en el Manila Grand Opera House con gran éxito en octubre de 1923", en *Aray. Revista Satírica Semanal*.
+- "La Hidra", en *Aray. Revista Satírica Semanal*.
+- "Campanadas de Gloria", en *Aray. Revista Satírica Semanal*.
+- "La dolorosa de los Amores", en *Aray. Revista Satírica Semanal*.
+
+#### Novela
+
+- "Hacia donde nos lleva el Corazón", en *Aray. Revista Satírica Semanal*.
+
+#### Prosa satírica
+
+- "Los amigos íntimos", en *Aray*, 13 de diciembre, 1923, año I, núm. 7, p. 12.
+- "Enmiendas a un diccionario", en *Aray*, 27 de diciembre, 1923, año I, núm. 9, pp. 6-8.
+- "Los de la lata cuarenta y tantos", en *Aray*, 27 de diciembre, 1923, año I, núm. 9, pp. 12-14.
+
+#### Mi Voz
+
+- "Como se Pide", en *Voz de Manila*, viernes 2 de noviembre, 1945, vol. II, núm. 105, p. 3.
+- "Cosas de América", en *Voz de Manila*, domingo 4 de noviembre, 1945, vol. II, núm. 107, p. 3.
+- "El Colmo del Cinismo", en *Voz de Manila*, martes 6 de noviembre, 1945, vol. II, núm. 108, p. 3.
+- "Ladrones Hasta en el Techo", en *Voz de Manila*, viernes 9 de noviembre, 1945, vol. II, núm. 111, p. 3.
+- "Enciclopedia Espesa", en *Voz de Manila*, domingo 11 de noviembre, 1945, vol. II, núm. 113, p. 3.
+- "Notas Sociales", en *Voz de Manila*, martes 13 de noviembre, 1945, vol. II, núm. 114, p. 3.
+- "Famoso Observatorio", en *Voz de Manila*, domingo 18 de noviembre, 1945, vol. II, núm. 119, p. 3.
+- "Benvenuto, Canuto", en *Voz de Manila*, viernes 23 de noviembre, 1945, vol. II, núm. 123, p. 3.
+- "Contestando a Claro Franco", en *Voz de Manila*, martes 27 de noviembre, 1945, vol. II, núm. 126, p. 3.
+- "No seas bruto, Canuto", en *Voz de Manila*, domingo 2 de diciembre, 1945, vol. II, núm. 131, p. 3.
+- "Sueña, Rodríguez, Sueña...", en *Voz de Manila*, martes 4 de diciembre, 1945, vol. II, núm. 132, p. 3.
+- "Palimpsesto", en *Voz de Manila*, viernes 7 de diciembre, 1945, vol. II, núm. 135, p. 3.
+- "Oración a San Abagán", en *Voz de Manila*, domingo 9 de diciembre, 1945, vol. II, núm. 137, p. 3.
+- "Tales para Cuales", en *Voz de Manila*, martes 11 de diciembre, 1945, vol. II, núm. 138, p. 3.
+- "Escuela de Párvulos", en *Voz de Manila*, viernes 14 de diciembre, 1945, vol. II, núm. 141, p. 3.
+- "Al Doctor León C. Malubay", en *Voz de Manila*, domingo 16 de diciembre, 1945, vol. II, núm. 143, p. 3.
+- "Santa Claus a los Big Shots", en *Voz de Manila*, jueves 27 de diciembre, 1945, vol. II, núm. 150, p. 5.
+- "Santos, Benditos Inocentes", en *Voz de Manila*, viernes 28 de diciembre, 1945, vol. II, núm. 151, p. 3.
+- "A ver, qué somos", en *Voz de Manila*, miércoles 1 de mayo, 1946, vol. III, núm. 76, p. 3.
+- "Consecuencias", en *Voz de Manila*, domingo 5 de mayo, 1946, vol. III, núm. 77, p. 4.
+- "¡Uff!", en *Voz de Manila*, viernes 3 de mayo, 1946, vol. III, núm. 78, p. 4.
+- "Oración a Buda", en *Voz de Manila*, martes 7 de mayo, 1946, vol. III, núm. 79, p. 4.
+- "Rogativas", en *Voz de Manila*, miércoles 8 de mayo, 1946, vol. III, núm. 80, p. 4.
+- "Presdigitación", en *Voz de Manila*, jueves 9 de mayo, 1946, vol. III, núm. 81, p. 4.
+- "Vae Victis", en *Voz de Manila*, viernes 10 de mayo, 1946, vol. III, núm. 82, p. 4.
+- "Al Coronel Ángel Tuason", en *Voz de Manila*, sábado 11 de mayo, 1946, vol. III, núm. 83, p. 4.
+- "No hay mal que por bien no venga", en *Voz de Manila*, domingo 12 de mayo, 1946, vol. III, núm. 84, p. 4.
+- "Al sol que más calienta", en *Voz de Manila*, martes 14 de mayo, 1946, vol. III, núm. 75, p. 4.
+- "Primaveral", en *Voz de Manila*, miércoles 15 de mayo, 1946, vol. III, núm. 86, p. 4.
+- "Pérdidas y Ganancias", en *Voz de Manila*, viernes 17 de mayo, 1946, vol. III, núm. 88, p. 4.
+- "Más vale tarde que nunca", en *Voz de Manila*, sábado 18 de mayo, 1946, vol. III, núm. 89, p. 4.
+- "Ya era hora, Fugoso", en *Voz de Manila*, domingo 19 de Mayo, 1946, vol. III, núm. 90, p. 4.
+- "Vuelta a las Andadas", en *Voz de Manila*, martes 21 de mayo, 1946, vol. III, núm. 91, p. 4.
+- "A la Manera de Shakespeare", en *Voz de Manila*, miércoles 22 de mayo, 1946, vol. III, núm. 92, p. 4.
+- "Japonerías", en *Voz de Manila*, jueves 23 de mayo, 1946, vol. III, núm. 93, p. 4.
+- "Subidas y Bajadas", en *Voz de Manila*, viernes 24 de mayo, 1946, vol. III, núm. 94, p. 4.
+- "Anuncios clasificados", en *Voz de Manila*, sábado 25 de mayo, 1946, vol. III, núm. 95, p. 4.
+- "Haga el favor, don Tomate", en *Voz de Manila*, domingo 26 de mayo, 1946, vol. III, núm. 96, p. 4.
+- "La última tragedia de Esquilo", en *Voz de Manila*, jueves 30 de mayo, 1946, vol. III, núm. 99, p. 4.
+- "Siete menos cinco, dos", en *Voz de Manila*, domingo 2 de junio, 1946, vol. III, núm. 101, p. 4.
+- "Refranero Hispano-filipino", en *Voz de Manila*, martes 2 de junio, 1946, vol. III, núm. 102, p. 4.
+- "Las cosquillas de un negro", en *Voz de Manila*, miércoles 5 de junio, 1946, vol. III, núm. 103, p. 4.
+- "Otro negro con cosquillas", en *Voz de Manila*, miércoles 5 de junio, 1946, vol. III, núm. 103, p. 4.
+- "Una Mexicanada", en *Voz de Manila*, jueves 6 de junio, 1946, vol. III, núm. 104, p. 4.
+- "Fruta de la estación", en *Voz de Manila*, viernes 7 de junio, 1946, vol. III, núm. 105, p. 4.
+- "Labor Omnia Vincit", en *Voz de Manila*, sábado 8 de junio, 1946, vol. III, núm. 106, p. 4.
+- "Dear Shi Gos", en *Voz de Manila*, jueves 13 de junio, 1946, vol. III, núm. 110, p. 4.
+- "Para la estafeta del Hon. Ozaeta", en *Voz de Manila*, viernes 14 de junio, 1946, vol. III, núm. 111 , p. 4.
+- "A Grandes Gentes, Grandes Parientes", en *Voz de Manila*, sábado 15 de junio, 1946, vol. III, núm. 112, p. 4.
+- "Ya empiezan los Banqueteos", en *Voz de Manila*, domingo 16 de junio, 1946, vol. III, núm. 113, p. 8.
+- "Dernier Chic", en *Voz de Manila*, martes 18 de junio, 1946, vol. III, núm. 104, p. 4.
+- "El Palacio Benditado", en *Voz de Manila*, miércoles 19 de junio, 1946, vol. III, núm. 115, p. 6.
+- "Sobre eso del francés y del español", en *Voz de Manila*, jueves 20 de junio, 1946, vol. III, núm. 116, p. 4.
+- "En eso les damos quince y raya", en *Voz de Manila*, viernes 21 de junio, 1946, vol. III, núm. 117, p. 4.
+- "Cosas de América", en en *Voz de Manila*, sábado 22 de junio, 1946, vol. III, núm. 118, p. 4.
+- "Ya me he comprado muebles de «Ratán»", en *Voz de Manila*, domingo 23 de junio, 1946, vol. III, núm. 119, p. 8.
+- "Hambre en puertas", en *Voz de Manila*, martes 25 de junio, 1946, vol. III, núm. 120, p. 4.
+- "Epístola Inmoral. Al Alcalde Fugoso", en *Voz de Manila*, miércoles 26 de junio, 1946, vol. III, núm. 121, p. 4.
+- "Cuando se tocan los extremos", en *Voz de Manila*, jueves 27 de junio, 1946, vol. III, núm. 122, p. 4.
+- "Hoy nos van a tocar", en *Voz de Manila*, domingo 30 de junio, 1946, vol. III, núm. 123, p. 12.
+- "Ante la catástrofe cercana", en *Voz de Manila*, martes 2 de julio, 1946, vol. III, núm. 124, p. 4.
+- "Tragando a dos carrillos", en *Voz de Manila*, miércoles 3 de julio, 1946, vol. III, núm. 125, p. 4.
+- "Refranero Hispano-Filipino", en *Voz de Manila*, jueves 4 de julio, 1946, vol. III, núm. 126, p. 20.
+- "Cómo celebramos el gran día", en *Voz de Manila*, domingo 7 de julio, 1946, vol. III, núm. 128, p. 8.
+- "Al Coronel Ángel Tuazon", en *Voz de Manila*, jueves 11 de julio, 1946, vol. III, núm. 131, p. 4.
+- "Sota de «Bastus» en puertas", en *Voz de Manila*, viernes 12 de Julio, 1946, vol. III, núm. 132, p. 4.
+- "...Y armas al hombro", en *Voz de Manila*, sábado 13 de julio, 1946, vol. III, núm. 133, p. 4.
+- "Y va de cuento", en *Voz de Manila*, domingo 14 de julio, 1946, vol. III, núm. 134, p. 4.
+- "Al Hon. Secretario del Interior", en *Voz de Manila*, martes 16 de julio, 1946, vol. III, núm. 135, p. 4.
+- "Para algo sirven las modas", en *Voz de Manila*, jueves 18 de julio, 1946, vol. III, núm. 137, p. 4.
+- "Nadie es menos que nadie", en *Voz de Manila*, viernes 19 de julio, 1946, vol. III, núm. 138, p. 3.
+- "Empieza el movimiento", en *Voz de Manila*, sábado 20 de julio, 1946, vol. III, núm. 139, p. 4.
+- "La oposición se muestra optimista", en *Voz de Manila*, domingo 21 de julio, 1946, vol. III, núm. 140, p. 4.
+- "Sería mejor un basurero", en *Voz de Manila*, martes 23 de julio, 1946, vol. III, núm. 141, p. 4.
+- "Matayotes, Mayoteton, Tapanta Matadotes", en *Voz de Manila*, miércoles 24 de julio, 1946, vol. III, núm. 142, p. 4.
+- "Cinco mil mujeres se destapan", en *Voz de Manila*, jueves 25 de julio, 1946, vol. III, núm. 143, p. 12.
+- "La cosa más diáfana del mundo", en *Voz de Manila*, viernes 26 de julio, 1946, vol. III, núm. 144, p. 4.
+- "Lo que dicen los besos", en *Voz de Manila*, sábado 27 de julio, 1946, vol. III, núm. 145, p. 3.
+- "Réplica a mi compadre", en *Voz de Manila*, domingo 28 de julio, 1946, vol. III, núm. 146, p. 8.
+- "Para epitafios, éstos", en *Voz de Manila*, miércoles 31 de julio, 1946, vol. III, núm. 148, p. 4.
+- "Fotos", en *Voz de Manila*, jueves 1 de agosto, 1946, vol. III, núm. 149, p. 4.
+
+#### Versos y Bersas
+
+Sección satírica en *El Debate*
+
+### Obra dispersa parcial como «Julio Brial»
+
+#### Poesías
+
+- "Mujer Española", en *Excelsior*, 20 de julio, 1929, núm. 834, p. 25.
+- "Por Radio", en *Excelsior*, junio, 1938, núm. 1059, p. 11.
+
+#### Cuentos
+
+- "La Leyenda del Lanzón", en *Renacimiento Filipino*, viernes 28 de febrero, 1913, año III, núm. 128, p. 1094.
+- "Bienaventurados los humildes", en *Excelsior*, 10 de octubre, 1929, núm. 842.
+- "La Pesca", en *Excelsior*, 10 de agosto, 1930, núm. 872, pp. 11-14.
+- "El caso del Dr. Laredo", en *Excelsior*, 20 de febrero, 1931, núm. 891, pp. 13-16.
+- "Amor", en *Excelsior*, octubre, 1938, núm. 1063, pp. 11-12.
+
+### Letras musicales
+
+- Francisco Santiago, *Kundiman. Canción filipina*, 1917.
+- --------- (1920), *Madaling Araw. Kundiman (canción filipina)*, Manila, Philippine Music Pub, 1949.
+- --------- (1921), *Pakiusap. Kundiman (canción filipina)*, Manila, Philippine Music Pub, 1949.
+- Nicanor Abelardo, *¿Nasaan ka irog? Kundimang Tagalog---¡Dónde estás, mi vida!*, Manila, 1923.
+
+### Antologías que incluyen obras de Balmori
+
+- AA.VV., *Discursos de Malolos y Poesías Filipinas en Español*, Manila, Departamento de Educación, 1965.
+- Marino, Pilar E. y Edgardo Tiamson Mendoza, *Cuentos de Balmori (1886-1948)*, Manila, National Book Store, 1987.
+- Marino, Pilar E., *Philippine Short Stories in Spanish. 1900-1941*, Quezon City, Universidad de Filipinas, 1989.
+- Martín de la Cámara, Eduardo, *Parnaso Filipino. Antología de poetas del Archipiélago Magallánico*, Barcelona, Casa Editorial Maucci, 1922.
+- Pita, María Dolores, *Balagtasan: La Poesía de Jesús Balmori y Manuel Bernabé y Otras Cosas Más. Siendo lo mejor de lo escrito por Filipinos de Rizal a Nick Joaquín*, Manila, Historical Conservation Society, 1992.
