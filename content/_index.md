@@ -19,6 +19,7 @@ Espero que disfrute su visita.
 - ["Literatura filipina en español", *Biblioteca Virtual Manuel de Cervantes*](http://www.cervantesvirtual.com/portales/literatura_filipina_en_espanol/)
 - [Revista Filipina](https://revista.carayanpress.com/)
 - [geocites/kaibigankastil](https://www.oocities.org/kaibigankastil/)
+- [Filiteratura - base de datos de la literatura español en Filipinas y sobre Filipinas](https://filiteratura.uantwerpen.be/)
 
 ## Sobre mí
 
